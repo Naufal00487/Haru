@@ -1,0 +1,7 @@
+python-telegram-bot
+apscheduler
+httpx
+cachetools
+python-dotenv
+cryptography
+google-generativeai
